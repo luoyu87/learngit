@@ -10,7 +10,7 @@ int main(void)
 }
 
 
-void func()
+void func(return)
 {
 	printf("I am an another process!!\n");
 }
